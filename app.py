@@ -1,1 +1,3 @@
-print("Коваль Саша")
+fullName = input("Как Вас зовут?\t")
+
+print(fullName)
